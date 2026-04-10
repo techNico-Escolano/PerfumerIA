@@ -34,7 +34,6 @@ A diferencia de un esquema básico, este proyecto implementa características av
   * Uso de `ROLLBACK` como mecanismo de protección frente a errores humanos (ej. deshacer un descuento masivo aplicado por error).
 
 ## 📊 Modelo Entidad-Relación (ERD)
-*(Añade aquí la captura del esquema E-R que tienes en la página 2 de tu PDF. Es fundamental para visualizar la estructura).*
 ![Modelo E-R Perfumer-IA](enlace-a-tu-imagen.png)
 
 ## 🛠️ Cómo explorar este proyecto
